@@ -1,0 +1,13 @@
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\bin\Debug\netcoreapp3.1\Example001_Hello_console.exe
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\bin\Debug\netcoreapp3.1\Example001_Hello_console.deps.json
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\bin\Debug\netcoreapp3.1\Example001_Hello_console.runtimeconfig.json
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\bin\Debug\netcoreapp3.1\Example001_Hello_console.runtimeconfig.dev.json
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\bin\Debug\netcoreapp3.1\Example001_Hello_console.dll
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\bin\Debug\netcoreapp3.1\Example001_Hello_console.pdb
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\obj\Debug\netcoreapp3.1\Example001_Hello_console.csprojAssemblyReference.cache
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\obj\Debug\netcoreapp3.1\Example001_Hello_console.AssemblyInfoInputs.cache
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\obj\Debug\netcoreapp3.1\Example001_Hello_console.AssemblyInfo.cs
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\obj\Debug\netcoreapp3.1\Example001_Hello_console.csproj.CoreCompileInputs.cache
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\obj\Debug\netcoreapp3.1\Example001_Hello_console.dll
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\obj\Debug\netcoreapp3.1\Example001_Hello_console.pdb
+C:\Users\proso\OneDrive\Рабочий стол\C# education\Examples\Example001_Hello_console\obj\Debug\netcoreapp3.1\Example001_Hello_console.genruntimeconfig.cache

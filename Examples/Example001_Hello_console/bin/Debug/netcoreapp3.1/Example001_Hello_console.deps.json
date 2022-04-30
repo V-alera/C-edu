@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Example001_Hello_console/1.0.0": {
+        "runtime": {
+          "Example001_Hello_console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example001_Hello_console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
