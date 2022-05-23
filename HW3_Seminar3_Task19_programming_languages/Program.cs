@@ -16,24 +16,32 @@ namespace Seminar_Task1
         static void Main(string[] args)
         {
             string str;
-            int num = 0, number = 0;
+            int num = 0, number = 0, count = 0;
             int []arr = new int[5];
             Console.WriteLine();
             Console.WriteLine("Введите число");
             Console.WriteLine();
-            
+        
             str = Console.ReadLine();
             num = Convert.ToInt32(str);
+            number = num;
                 for (int i = 0; i < 5; i++)
                 {
                 arr[i] = num % 10;
                 num /= 10;
+                count++;
                 }
-            
+
+            if (num != 0 || arr[4] == 0) {
+                Console.Write("Число не 5ти значное !");
+                Console.WriteLine();
+                Environment.Exit(0);
+            }
+
             Console.WriteLine();
 
-            if (arr[0] == arr[4] && arr[1] == arr[3]) Console.Write("Число " + num + " - полиндром");
-            else Console.Write("Число " + num + " - не полиндром");
+            if (arr[0] == arr[4] && arr[1] == arr[3]) Console.Write("Число " + number + " - полиндром");
+            else Console.Write("Число " + number + " - не полиндром");
             
             Console.WriteLine();
                        
