@@ -14,7 +14,7 @@ namespace Seminar_Task1
         static void Main(string[] args)
         {
             string str;
-            int num = 0, N = 0;
+            int num = 0, N = 0, stepen = 3;
             Console.WriteLine();
             Console.Write("Введите число ");
                       
@@ -23,7 +23,7 @@ namespace Seminar_Task1
             int[] arr = new int[N+1];
                 for (int i = 1; i <= N; i++)
                 {
-                arr[i] = i*i*i;
+                arr[i] = Convert.ToInt32(Math.Pow(i, stepen));
                 }
             Console.WriteLine();
             Console.Write("Список кубов до числа " + N);    
