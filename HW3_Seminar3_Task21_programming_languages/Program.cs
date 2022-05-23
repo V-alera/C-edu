@@ -33,7 +33,7 @@ namespace Seminar_Task1
                     y1 = Convert.ToDouble(str);
                     Console.Write("Значение z1: ");
                     str = Console.ReadLine();
-                    y1 = Convert.ToDouble(str);
+                    z1 = Convert.ToDouble(str);
             Console.WriteLine();
             Console.WriteLine("Введите значения x, y, z второй точки: ");
                     Console.Write("Значение x2: ");
@@ -44,7 +44,7 @@ namespace Seminar_Task1
                     y2 = Convert.ToDouble(str);
                     Console.Write("Значение z2: ");
                     str = Console.ReadLine();
-                    y2 = Convert.ToDouble(str);    
+                    z2 = Convert.ToDouble(str);    
             Console.WriteLine();
                        
                 length = distanceBetweenTwoPoints (x1, y1, z1, x2, y2, z2);
