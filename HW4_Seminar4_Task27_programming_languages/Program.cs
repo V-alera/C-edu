@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+Задача 27: Напишите программу, которая принимает на
+вход число и выдаёт сумму цифр в числе.
+452 -> 11
+82 -> 10
+9012 -> 12
+*/
+
+using System;
 
 namespace HW4_Seminar4_Task27_programming_languages
 {
