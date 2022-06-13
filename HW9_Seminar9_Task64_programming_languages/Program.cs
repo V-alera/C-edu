@@ -60,7 +60,14 @@ namespace HW6_Seminar6_Task41_programming_languages
                 int pos = 0;
                 Console.Write("Введите число N: ");
                 int N = Convert.ToInt32(Console.ReadLine());
-                             
+
+                if (N <= 0) 
+                {
+                    Console.Write("Число не натуральное! ");
+                    System.Environment.Exit(0);
+                    Console.WriteLine();
+                }    
+
                 Mass = MassInit (N);
 
                 Mass = FillArray (Mass, pos, N);
